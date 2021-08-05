@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetR4_6 Pin=U1-11
+Removed Pin From Net: NetName=NetR4_5 Pin=U1-12
+Added Pin To Net: NetName=NetR4_5 Pin=U1-11
+Added Pin To Net: NetName=NetR4_6 Pin=U1-12
+Added Room: Name=TraiTimMocKhoa

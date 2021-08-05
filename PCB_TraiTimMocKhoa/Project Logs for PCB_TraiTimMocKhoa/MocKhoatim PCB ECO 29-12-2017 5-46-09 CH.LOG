@@ -1,0 +1,249 @@
+Added Component: Designator=C1(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C2(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C3(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C4(JP4-C1T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613004143121"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PIN3V - CR2032)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Battery Series"; Value = "2032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Battery Type, Function"; Value = "Coin Cell, Retainer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Battery Products"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.memoryprotectiondevices.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.memoryprotectiondevices.com/datasheets/BK-912-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.memoryprotectiondevices.com/datasheets/BK-912-datasheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Battery Holders, Clips, Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Memory Protection Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Cells"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin, CN-DIN, Body 21.08x15.24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CN-DIN-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BK-912-TR"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED9(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED10(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED11(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED12(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED13(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED14(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED15(LED-0805-Green)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESCAXS50P160X320X70-8N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RESCAXS50P160X320X70-8N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(RESCAXS50P160X320X70-8N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(RESCAXS50P160X320X70-8N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(SM-RES-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "R1W - 100"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW-DIP1-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4181271609xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Dec.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No."; Value = "418127160901"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole"; Value = "01"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SSOP20)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-3
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-8
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=S1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R2-4
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R1-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R2-3
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R1-3
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R2-2
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R2-1
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=R3-4
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=R3-3
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=NetLED10_2 Pin=LED10-2
+Added Pin To Net: NetName=NetLED10_2 Pin=R3-2
+Added Net: Name=NetLED10_2
+Added Pin To Net: NetName=NetLED11_2 Pin=LED11-2
+Added Pin To Net: NetName=NetLED11_2 Pin=R3-1
+Added Net: Name=NetLED11_2
+Added Pin To Net: NetName=NetLED12_2 Pin=LED12-2
+Added Pin To Net: NetName=NetLED12_2 Pin=R4-4
+Added Net: Name=NetLED12_2
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED13_2 Pin=R4-3
+Added Net: Name=NetLED13_2
+Added Pin To Net: NetName=NetLED14_2 Pin=LED14-2
+Added Pin To Net: NetName=NetLED14_2 Pin=R4-2
+Added Net: Name=NetLED14_2
+Added Pin To Net: NetName=NetLED15_2 Pin=LED15-2
+Added Pin To Net: NetName=NetLED15_2 Pin=R4-1
+Added Net: Name=NetLED15_2
+Added Pin To Net: NetName=NetR1_6 Pin=R1-6
+Added Pin To Net: NetName=NetR1_6 Pin=U1-3
+Added Net: Name=NetR1_6
+Added Pin To Net: NetName=NetR1_7 Pin=R1-7
+Added Pin To Net: NetName=NetR1_7 Pin=U1-2
+Added Net: Name=NetR1_7
+Added Pin To Net: NetName=NetR1_8 Pin=R1-8
+Added Pin To Net: NetName=NetR1_8 Pin=U1-1
+Added Net: Name=NetR1_8
+Added Pin To Net: NetName=NetR2_5 Pin=R2-5
+Added Pin To Net: NetName=NetR2_5 Pin=U1-20
+Added Net: Name=NetR2_5
+Added Pin To Net: NetName=NetR2_6 Pin=R2-6
+Added Pin To Net: NetName=NetR2_6 Pin=U1-19
+Added Net: Name=NetR2_6
+Added Pin To Net: NetName=NetR2_8 Pin=R2-8
+Added Pin To Net: NetName=NetR2_8 Pin=U1-17
+Added Net: Name=NetR2_8
+Added Pin To Net: NetName=NetR3_5 Pin=R3-5
+Added Pin To Net: NetName=NetR3_5 Pin=U1-16
+Added Net: Name=NetR3_5
+Added Pin To Net: NetName=NetR3_6 Pin=R3-6
+Added Pin To Net: NetName=NetR3_6 Pin=U1-15
+Added Net: Name=NetR3_6
+Added Pin To Net: NetName=NetR3_7 Pin=R3-7
+Added Pin To Net: NetName=NetR3_7 Pin=U1-14
+Added Net: Name=NetR3_7
+Added Pin To Net: NetName=NetR3_8 Pin=R3-8
+Added Pin To Net: NetName=NetR3_8 Pin=U1-13
+Added Net: Name=NetR3_8
+Added Pin To Net: NetName=NetR4_5 Pin=R4-5
+Added Pin To Net: NetName=NetR4_5 Pin=U1-12
+Added Net: Name=NetR4_5
+Added Pin To Net: NetName=NetR4_6 Pin=R4-6
+Added Pin To Net: NetName=NetR4_6 Pin=U1-11
+Added Net: Name=NetR4_6
+Added Pin To Net: NetName=NetR4_7 Pin=R4-7
+Added Pin To Net: NetName=NetR4_7 Pin=U1-10
+Added Net: Name=NetR4_7
+Added Pin To Net: NetName=NetR4_8 Pin=R4-8
+Added Pin To Net: NetName=NetR4_8 Pin=U1-6
+Added Net: Name=NetR4_8
+Added Pin To Net: NetName=NRST Pin=C1-1
+Added Pin To Net: NetName=NRST Pin=C4-1
+Added Pin To Net: NetName=NRST Pin=R1-5
+Added Pin To Net: NetName=NRST Pin=U1-4
+Added Net: Name=NRST
+Added Pin To Net: NetName=SWIM Pin=C4-2
+Added Pin To Net: NetName=SWIM Pin=R2-7
+Added Pin To Net: NetName=SWIM Pin=U1-18
+Added Net: Name=SWIM
+Added Pin To Net: NetName=SW Pin=C3-1
+Added Pin To Net: NetName=SW Pin=R5-2
+Added Pin To Net: NetName=SW Pin=R6-1
+Added Pin To Net: NetName=SW Pin=U1-5
+Added Net: Name=SW
+Added Pin To Net: NetName=VCC Pin=C4-4
+Added Pin To Net: NetName=VCC Pin=LED1-1
+Added Pin To Net: NetName=VCC Pin=LED2-1
+Added Pin To Net: NetName=VCC Pin=LED3-1
+Added Pin To Net: NetName=VCC Pin=LED4-1
+Added Pin To Net: NetName=VCC Pin=LED5-1
+Added Pin To Net: NetName=VCC Pin=LED6-1
+Added Pin To Net: NetName=VCC Pin=LED7-1
+Added Pin To Net: NetName=VCC Pin=LED8-1
+Added Pin To Net: NetName=VCC Pin=LED9-1
+Added Pin To Net: NetName=VCC Pin=LED10-1
+Added Pin To Net: NetName=VCC Pin=LED11-1
+Added Pin To Net: NetName=VCC Pin=LED12-1
+Added Pin To Net: NetName=VCC Pin=LED13-1
+Added Pin To Net: NetName=VCC Pin=LED14-1
+Added Pin To Net: NetName=VCC Pin=LED15-1
+Added Pin To Net: NetName=VCC Pin=R1-4
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=S1-2
+Added Pin To Net: NetName=VCC Pin=U1-9
+Added Net: Name=VCC
+Added Class: Name=TraiTimMocKhoa
+Added Room: Name=TraiTimMocKhoa
